@@ -1,0 +1,65 @@
+body{
+    background: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background:  white;
+    border-radius: 10px;
+	margin: auto;
+    padding: 30px;
+    width: 250px;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0, 0.363);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.exibtabu{
+	width: 235px;
+	text-align: center;
+	padding: 5px;
+}
+.input{
+	border-radius: 8px;
+	padding: 10px 20px;  
+	margin-top: 10px;
+	width: 110px;
+}
+
+.botao-estilizado {
+	background-color: #003366;
+	color: #ffffff;  
+	border: none;  
+	border-radius: 8px; 
+	padding: 10px 20px; 
+	margin-top: 10px;
+	font-size: 16px; 
+	cursor: pointer; 
+	transition: background-color 0.3s ease; 
+	width: 235px;
+}
+
+.botao-estilizado:hover {
+	background-color: #002244; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
